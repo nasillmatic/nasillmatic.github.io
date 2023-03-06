@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>nasillmatic</title>
-    <link>https://nasillmatic.github.io/</link>
-    <description>Recent content on nasillmatic</description>
+    <title>Posts on nasillmatic</title>
+    <link>https://nasillmatic.github.io/posts/</link>
+    <description>Recent content in Posts on nasillmatic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nasillmatic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nasillmatic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023-03-06(월) AI 관련 신문기사 요약</title>
       <link>https://nasillmatic.github.io/posts/news/ai/20230306/</link>
@@ -45,7 +45,6 @@
 (조선일보-A33면)
 옛날 왕조시대에는 가뭄과 홍수 피해를 막는 치산치수가 국가 경영의 요체였다.그동안 댐을 건설하여 우기에는 물을 가두어 홍수를 예방하고, 갈수기 때 필요한 물을 비교적 안정적으로 사용할 수 있었으나 이제는 기후변화 여파로 예상치 못한 사태가 세계적으로 속출하고 있다.국토 면적이 우리나라의 5분의 1인 이스라엘은 전형적인 물 부족 국가이지만 자국 내 물 문제를 해결하는 데 그치지 않고 물 산업을 진흥시켜 세계 100여 국가에 진출한 상태다.</description>
     </item>
-    
     
   </channel>
 </rss>
