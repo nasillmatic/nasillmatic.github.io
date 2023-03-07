@@ -80,6 +80,13 @@
   </url>
   
   <url>
+    <loc>https://nasillmatic.github.io/posts/news/koreaherald/20230307/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://nasillmatic.github.io/posts/news/financialnews/20230307/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -95,6 +102,13 @@
   
   <url>
     <loc>https://nasillmatic.github.io/posts/news/hankyung/20230307/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasillmatic.github.io/posts/news/heraldeconomy/20230307/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -213,6 +227,13 @@
   </url>
   
   <url>
+    <loc>https://nasillmatic.github.io/tags/%EC%BD%94%EB%A6%AC%EC%95%84%ED%97%A4%EB%9F%B4%EB%93%9C/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://nasillmatic.github.io/tags/%ED%8C%8C%EC%9D%B4%EB%82%B8%EC%85%9C%EB%89%B4%EC%8A%A4/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -228,6 +249,13 @@
   
   <url>
     <loc>https://nasillmatic.github.io/tags/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasillmatic.github.io/tags/%ED%97%A4%EB%9F%B4%EB%93%9C%EA%B2%BD%EC%A0%9C/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
