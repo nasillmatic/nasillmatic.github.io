@@ -45,28 +45,7 @@
   </url>
   
   <url>
-    <loc>https://nasillmatic.github.io/tags/bigtech/</loc>
-    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://nasillmatic.github.io/categories/</loc>
-    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nasillmatic.github.io/tags/finance/</loc>
-    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://nasillmatic.github.io/tags/kortech/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -94,14 +73,35 @@
   </url>
   
   <url>
-    <loc>https://nasillmatic.github.io/tags/property/</loc>
+    <loc>https://nasillmatic.github.io/tags/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nasillmatic.github.io/tags/</loc>
+    <loc>https://nasillmatic.github.io/tags/%EA%B5%AD%EB%82%B4%ED%85%8C%ED%81%AC%EA%B8%B0%EC%97%85/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasillmatic.github.io/tags/%EA%B8%88%EC%9C%B5/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasillmatic.github.io/tags/%EB%B6%80%EB%8F%99%EC%82%B0/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasillmatic.github.io/tags/%EB%B9%85%ED%85%8C%ED%81%AC%EA%B8%B0%EC%97%85/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

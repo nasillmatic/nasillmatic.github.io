@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ai on nasillmatic</title>
+    <title>AI on nasillmatic</title>
     <link>https://nasillmatic.github.io/tags/ai/</link>
-    <description>Recent content in ai on nasillmatic</description>
+    <description>Recent content in AI on nasillmatic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nasillmatic.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />

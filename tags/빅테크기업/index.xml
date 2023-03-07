@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>빅테크기업 on nasillmatic</title>
+    <link>https://nasillmatic.github.io/tags/%EB%B9%85%ED%85%8C%ED%81%AC%EA%B8%B0%EC%97%85/</link>
+    <description>Recent content in 빅테크기업 on nasillmatic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nasillmatic.github.io/tags/%EB%B9%85%ED%85%8C%ED%81%AC%EA%B8%B0%EC%97%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023-03-07(화) 빅테크기업 관련 신문기사 요약</title>
+      <link>https://nasillmatic.github.io/posts/news/bigtech/20230307/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nasillmatic.github.io/posts/news/bigtech/20230307/</guid>
+      <description>애플, 우리 정밀지도 해외 반출 요구하는데… ‘조세 꼼수’ 아닌가요
+ (조선일보-B3면)
+애플은 지난달 국토지리정보원에 축척 1대5000 국내 정밀 지도 데이터의 해외 반출을 요구했다가 지난달 16일 &amp;lsquo;반출 불가&amp;rsquo; 통보를 받았다.반면 지리 데이터 관련 업계에선 &amp;ldquo;구글과 애플 같은 해외 기업들이 한국에 서버를 두지 않고, 지도 데이터만 해외로 가져가 알맹이만 뽑아 먹겠다는 의도&amp;quot;라는 지적이 나온다.애초에 구글과 애플이 한국에 서버를 설치하면 해외 반출 없이 국내 정밀 지도 서비스 제공이 가능하다는 것이다.
+롯데百 개인맞춤 앱 개편… G마켓도 ‘AI기반’ 곧 적용</description>
+    </item>
+    
+  </channel>
+</rss>
