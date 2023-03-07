@@ -5,6 +5,34 @@
     <link>https://nasillmatic.github.io/tags/</link>
     <description>Recent content in Tags on nasillmatic</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language><atom:link href="https://nasillmatic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nasillmatic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>a|i</title>
+      <link>https://nasillmatic.github.io/tags/ai/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nasillmatic.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>f|i|n|a|n|c|e</title>
+      <link>https://nasillmatic.github.io/tags/finance/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nasillmatic.github.io/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p|r|o|p|e|r|t|y</title>
+      <link>https://nasillmatic.github.io/tags/property/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nasillmatic.github.io/tags/property/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
